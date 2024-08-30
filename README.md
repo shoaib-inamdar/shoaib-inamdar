@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Web Development<br>🎯 Goals:...<br>🎲 Fun fact:  It's Doesn't cost any Money to Follow me 😅</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Web Development<br>🎯 Goals:...<br>🎲 Fun fact:  It Doesn't cost any Money to Follow me 😅</p>
 
 ###
 
