@@ -93,7 +93,7 @@
 # Profile Views
 
 <div align="center">
-  <img src="https://count.getloli.com/@shoaib-inamdar?name=shoaib-inamdar&theme=booru-lewd&padding=10&offset=0&align=center&scale=2&pixelated=1&darkmode=1"  />
+  <img src="https://count.getloli.com/@shoaib-inamdar?name=shoaib-inamdar&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=1"  />
 </div>
 
 
