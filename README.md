@@ -1,22 +1,42 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi, I'm Shoaib Inamdar 👋</h1>
 
-###
+<p align="center">
+  <strong>Open Library Fellow @ Internet Archive</strong><br>
+  Full Stack & Flutter Developer · Open Source Contributor
+</p>
 
-<p align="left">My name is Shoaib Inamdar and I'm a Web Developer.</p>
+<p align="center">
+  Currently working on audience tagging, metadata cleanup, and search/discovery improvements for <a href="https://openlibrary.org" target="_blank">Open Library</a> — one of the world’s largest open digital libraries.
+</p>
 
-###
 
-<h2 align="left">About me</h2>
+<p align="center">
+  <a href="https://github.com/shoaib-inamdar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=6C63FF&center=true&vCenter=true&width=760&lines=Building+for+the+open+web+%F0%9F%8C%90;Contributing+to+Internet+Archive's+Open+Library+%F0%9F%93%9A;Turning+coffee+into+merged+PRs+%E2%98%95" alt="typing-intro" />
+  </a>
+</p>
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Web Development<br>🎯 Goals:...<br>🎲 Fun fact:  It Doesn't cost Money to Follow me 😅</p>
+🔭 **What I'm building right now**
+- 📚 Adding **10+ audience mappings** to the [Open Book Genome Project Tag Core](https://github.com/open-Book-Genome-Project/tags)
+- 🏷️ Surfacing **50,000+ audience tags** from existing subjects into new `work` and `solr` fields for OpenLibrary.org
+- 🔍 Designing a **search-by-audience** feature so patrons can discover books by who they're written for
 
-###
+## 🌟 Open Source Contributions
 
-<h2 align="left"></h2>
+> *"The best code isn't written in isolation — it's reviewed, merged, and put in the hands of real users."*
 
-###
+| Organization | Project | Role |
+| :--- | :--- | :--- |
+| 🏛️ **[Internet Archive](https://archive.org/)** | [Open Library](https://github.com/internetarchive/openlibrary) | **2026 Fellow** — Tags Project (Audiences) |
+| 🌴 **[Palisadoes Foundation](https://www.palisadoes.org/)** | [Talawa (Flutter app)](https://github.com/PalisadoesFoundation/talawa) | Contributor — Performance, MVVM refactor, Tests |
+| 📖 **[Open Book Genome Project](https://www.openbookgenome.org/)** | [TheBestBookOn.com](https://github.com/Open-Book-Genome-Project/thebestbookon.com) | Contributor |
+
+
+
+
+# Tech Stack
 
 <br clear="both">
 
